@@ -86,8 +86,6 @@ It focuses on **usability, accessibility, and user-friendly design** with featur
 
 ---
 
----
-
 ## How to Run the Project
 
 1. Open the project in **Visual Studio**
@@ -98,7 +96,8 @@ It focuses on **usability, accessibility, and user-friendly design** with featur
 ## Login Credentials
 Username: Admin
 Password: 12345
-## 🖼️ UI Preview
+---
+##  UI Preview
 
 Simple and interactive interface:
 
@@ -107,12 +106,12 @@ Simple and interactive interface:
 - Buttons for actions  
 - Real-time feedback  
 
-![Dashboard](assets/images/dashboard.png)
-![Learners](assets/images/learners.png)
-![Login](assets/images/login.png)
-![Add Learner](assets/images/add.png)
-![Update](assets/images/update.png)
-![Delete](assets/images/delete.png)
+![Login](assets/images/image.png)
+![Dashboard](assets/images/Dashboard.png)
+![Learners](assets/images/Learners.png)
+![Instructors](assets/images/Instructors.png)
+![Lessons](assets/images/Lessons.png)
+![Courses](assets/images/Courses.png)
 
 ---
 
