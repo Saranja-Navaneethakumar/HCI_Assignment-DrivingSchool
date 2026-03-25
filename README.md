@@ -87,15 +87,14 @@ It focuses on **usability, accessibility, and user-friendly design** with featur
 ---
 
 ## How to Run the Project
-
 1. Open the project in **Visual Studio**
 2. Build the solution  
 3. Run the project
 4. Press F5
+5. Login Credentials
+   * Username: Admin
+   * Password: 12345
 
-## Login Credentials
-Username: Admin
-Password: 12345
 ---
 ##  UI Preview
 
